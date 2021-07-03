@@ -3,7 +3,7 @@ import EmotionDetector as ed
 import os
 import time
 import cv2
-import eval_script as ev
+#import eval_script as ev
 import VAClassifier as va
 
 def get_time_stamps(path_to_video):
@@ -52,13 +52,13 @@ def process_video(path_to_video, path_to_results_dir):
 #save_results_in_dir = os.path.join("imgs", "test4")
 
 
-videoname = "2021-04-13-16_35_06.avi"
+videoname = "2021-03-19-16_51_32.avi"
 
 
-user = "user_13"
-site = "site_8"
+user = "user_1"
+site = "site_1"
 #path_to_video_dir = os.path.join("imgs", "participants", user, site, "video", videoname)
-path_to_video_dir = os.path.join("imgs", "git_test", user, site, "video", videoname)
+path_to_video_dir = os.path.join("imgs", "git_test", "participants", user, site, "video", videoname)
 #save_results_in_dir = os.path.join("imgs", "participants", user, site, "output")
-save_results_in_dir = os.path.join("imgs", "git_test", user, site, "output")
+save_results_in_dir = os.path.join("imgs", "git_test", "participants", user, site, "output")
 process_video(path_to_video_dir, save_results_in_dir)

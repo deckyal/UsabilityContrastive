@@ -9,7 +9,7 @@ import time
 sys.path.insert(1, "Libs\\MTCNN_USE_TF_E2E")
 from detect_face_tf import Network
 import Display as dp
-import EyeDetector as eyed
+#import EyeDetector as eyed
 
 
 class FaceExtractor:

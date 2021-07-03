@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######`
+numpy
+tensorflow
+opencv-python
+tf-slim
+
+###### Requirements with Version Specifiers ######`
+
