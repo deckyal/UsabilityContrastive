@@ -1,16 +1,13 @@
 # UsabilityContrastive
 THE USABILITY  ANALYSIS FOR CONTRASTIVE WEBSITE ANALYSIS
 
-What is it about. 
+In the context of a RP of the University of Stuttgart, the study "The usability analysis for contrastive website analysis" was accomplished.
+The goal of the study was to use eye tracking and emotion recognition to better determine the usability of different websites.
 
-Explanation of the repository : 
+In the repository you can have a look at the two programs that were used for the project.
 
-This repository holds the program for the RP on Universistat Stuttgart. 
-
-
-What program it consists: 
-
-1.xx
-2.xx
+1. Program that recorded the faces of the participants via webcam.
+2. Emotion recognition program. 
+   The program receives as input an image with a face. Based on this image, the program gives a prediction about the emotions that the person depicted in the image has.
 
 Reference. 
