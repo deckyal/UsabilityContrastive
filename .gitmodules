@@ -1,0 +1,3 @@
+[submodule "EmotionIdentityExtractor/Libs/Aff-Wild-models"]
+	path = EmotionIdentityExtractor/Libs/Aff-Wild-models
+	url = https://github.com/dkollias/Aff-Wild-models.git
