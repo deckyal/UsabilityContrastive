@@ -1,3 +1,6 @@
 [submodule "EmotionIdentityExtractor/Libs/Aff-Wild-models"]
 	path = EmotionIdentityExtractor/Libs/Aff-Wild-models
 	url = https://github.com/dkollias/Aff-Wild-models.git
+[submodule "EmotionIdentityExtractor/Libs/MTCNN_USE_TF_E2E"]
+	path = EmotionIdentityExtractor/Libs/MTCNN_USE_TF_E2E
+	url = https://github.com/wanjinchang/MTCNN_USE_TF_E2E.git
