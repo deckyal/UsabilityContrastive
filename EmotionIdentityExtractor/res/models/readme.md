@@ -10,20 +10,12 @@ The pretrained model for discrete emotion estimation comes from: [link](https://
 After downloading the models you have to put them inside this directory to create a folder structure like:
 
 .
-|
-+--EmotionDetector
-|  +--model.h5
-|
-+--affwildnet
-|  +--affwildnet-resnet-gru
-|  |  +-- ...
-|  |  
-|  +--vggface
-|  |  +-- ...
-|  |  
-|  +--vggface_rnn
-|  |  +-- ...
-|  |  
-|  +--.gitignore 
-|
-+--readme.md
+├───affwildnet
+│   ├───affwildnet-resnet-gru
+│   │   └───...
+│   ├───vggface
+│   │   └───...
+│   └───vggface_rnn
+│       └───...
+└───EmotionDetector
+    └───model.h5
