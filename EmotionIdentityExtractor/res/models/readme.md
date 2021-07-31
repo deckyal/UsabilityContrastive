@@ -20,3 +20,5 @@ After downloading the models you have to put them inside this directory to creat
     └───EmotionDetector
         └───model.h5
     
+
+Do not forget to unzip the model files inside the affwildnet-resnet-gru, vggface and vggface_rnn folders.
