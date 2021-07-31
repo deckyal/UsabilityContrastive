@@ -12,4 +12,5 @@ In order to run this software you have to follow the procedure:
   7. Run Main.py
 
 
-Original the output will be placed into the /imgs folder
+Original the output will be placed into the /imgs folder.
+For the emotion identity extractor software we used Python 3.6.
