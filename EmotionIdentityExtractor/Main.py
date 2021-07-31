@@ -44,7 +44,7 @@ def process_video(path_to_video, path_to_results_dir):
 ##################################################################
 # Edit here the path to your video and the path to an output directory
 
-video_path = os.path.join("C:", "Desktop", "test.mp4")
+video_path = os.path.join("res", "2021-04-13-16_27_54.avi")
 save_results_in_dir = os.path.join("imgs")
 process_video(video_path, save_results_in_dir)
 
