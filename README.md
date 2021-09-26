@@ -1,5 +1,5 @@
 # UsabilityContrastive
-THE USABILITY  ANALYSIS FOR CONTRASTIVE WEBSITE ANALYSIS
+The Usability  Analysis For Contrastive Website Analysis
 
 In the context of a RP of the University of Stuttgart, the study "The usability analysis for contrastive website analysis" was accomplished.
 The goal of the study was to use eye tracking and emotion recognition to better determine the usability of different websites.
