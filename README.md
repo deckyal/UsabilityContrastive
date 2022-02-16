@@ -1,4 +1,4 @@
-# UsabilityContrastive
+# Usability Contrastive
 The Usability  Analysis For Contrastive Website Analysis
 
 In the context of a RP of the University of Stuttgart, the study "The usability analysis for contrastive website analysis" was accomplished.
